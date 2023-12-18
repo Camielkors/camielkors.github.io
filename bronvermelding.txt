@@ -1,0 +1,13 @@
+Naam: Camiel Kors
+Studentnummer: 500911962
+Klas: Onyx
+Schooljaar: 23/24, 1ste jaar
+
+LINK NAAR LIVE WEBSITE
+http://www.mijnlivewebsite.nl
+
+BRONVERMELDING
+1. https://yoksel.github.io/flex-cheatsheet/#section-display
+2. https://www.youtube.com/watch?v=OltY8JIaP-4&ab_channel=KennyYipCoding
+3. https://dlo.mijnhva.nl/d2l/le/content/536439/Home
+4. https://forum.freecodecamp.org/
